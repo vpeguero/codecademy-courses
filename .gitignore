@@ -1,0 +1,4 @@
+# Ignore included files
+
+.README.md.swp
+
