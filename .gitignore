@@ -1,4 +1,10 @@
 # Ignore included files
 
-.README.md.swp
+
+# Ignore vim temporary files
+*~
+*.swp
+*.swo
+
+#
 
