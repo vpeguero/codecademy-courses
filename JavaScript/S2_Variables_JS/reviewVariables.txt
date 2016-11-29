@@ -1,0 +1,11 @@
+You made it to the end of the first unit and this lesson! High five!
+
+We learned:
+
+ How to create variables.
+
+ How to change a variable's value.
+
+ How to interpolate, or insert, a variable into a string.
+
+In the next lesson, we will learn how to program JavaScript to make decisions for us and how to generate random numbers. Let's go!

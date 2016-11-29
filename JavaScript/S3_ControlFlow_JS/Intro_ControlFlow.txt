@@ -1,0 +1,8 @@
+Now that we've got the parts of JavaScript, let's see what they can do. In this unit, we'll explore how we can take those parts, and create decision trees, games, and much more.
+
+In programming, making decisions with code is called control flow.
+
+For instance, if we were making a choose-your-own-adventure game, we'd need to program a way for a user to choose which plot line they'd like to pursue. Control flow statements enable JavaScript to make those decisions by executing different code based on a condition.
+
+In this lesson, we'll learn how to make decisions with JavaScript and how it can control the program's flow.
+
