@@ -1,0 +1,14 @@
+rn JavaScript!
+
+JavaScript is the most widely used programming language on the web and is used on most websites, including this one.
+
+By the end of this course, you'll have a strong foundation in JavaScript. You'll be able to write full-fledged programs, make HTML and CSS dynamic, and write impressive web applications.
+
+This unit has two parts:
+
+Learn the building blocks of JavaScript
+Do some fun stuff with those parts
+Because this course starts with the building blocks of JavaScript, make sure to take notes and pace yourself. This foundation will take us through the rest of the JavaScript course.
+
+Sourced from: https://www.codecademy.com/courses/learn-javascript/lessons/introduction-to-javascript/exercises/intro?action=lesson_resume
+
